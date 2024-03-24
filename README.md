@@ -1,6 +1,6 @@
-# Advanced Techniques in data mining HW 1
+# Advanced Techniques in Data Mining HW 1
 
-This Repository contains code for Advanced Techniques in data mining course HW1 in UIB, Spain.
+This Repository contains code for the Advanced Techniques in Data Mining course HW1 in UIB, Spain.
 
 ## Getting Started
 
@@ -43,4 +43,4 @@ To run the main program, execute:
 python main.py
 ```
 
-Top 5 pairs and Triplets will be printed based on their confidence scores.
+The top 5 pairs and Triplets will be printed based on their confidence scores.
